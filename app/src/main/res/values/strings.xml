@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GaitAuth</string>
+    <string name="notification_header">Gait Authentication Sample</string>
+    <string name="notification_title">Step Feature Service</string>
+    <string name="notification_description">The Gait Authentication service is running to learn to recognize your walk.</string>
+    <string name="notification_action_stop_tracking">Stop Tracking Steps</string>
+    <string name="notification_action_start_training">Start Training</string>
+
+    <string name="button_save_user">Save</string>
+    <string name="button_track_features">Enable Tracking Features</string>
+    <string name="button_begin_training">Begin Training</string>
+    <string name="button_add_secret">Add Secret</string>
+    <string name="button_unlock_on_gait_authenticated">Unlock on Gait Authenticated</string>
+    <string name="button_clear_model">Clear Model</string>
+
+    <string name="label_enter_password">Enter your password to unlock your  secret</string>
+    <string name="label_unlock">Unlock Secret</string>
+    <string name="label_lock">Lock Secret</string>
+    <string name="label_secret_name">Secret Name</string>
+    <string name="label_secret_value">SecretValue</string>
+    <string name="label_delete_secret">&#128465;&#65039;</string>
+
+
+    <string name="label_user_name">User name</string>
+    <string name="label_password">Password</string>
+
+</resources>
