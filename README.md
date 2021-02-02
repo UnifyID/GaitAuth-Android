@@ -1,1 +1,1 @@
-unifyif-gaitauth-android-sample-code
+Sample code for UnifyID blog post
