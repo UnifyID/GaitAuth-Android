@@ -1,1 +1,1 @@
-Sample code for UnifyID blog post
+This repository contains the sample application accompanying the UnifyID blog post [Unlocking a Password Vault Based on Who You Are, Not What You Have](https://blog.unify.id/2021/02/04/unlocking-a-password-vault-based-on-who-you-are-not-what-you-have/) by Joel Johnson.
